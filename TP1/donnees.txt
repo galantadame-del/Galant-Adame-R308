@@ -1,0 +1,3 @@
+Alice 12
+Bob 15
+Claire 9.5
